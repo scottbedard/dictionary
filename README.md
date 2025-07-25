@@ -2,4 +2,4 @@
 
 Awesome words and phrases, with their great definitions.
 
-- Pin action
+- [Pin action](definitions/pin-action.md)
