@@ -4,4 +4,4 @@
 
 #### `Noun`
 
-A memelier is a trained meme professional who specializes in meme service, meme pairing, and meme management, most often in living rooms, bed rooms, or bath rooms.
+A memelier is a trained meme professional who specializes in meme service, meme pairing, and meme management, most often from living rooms, bed rooms, or bath rooms.
